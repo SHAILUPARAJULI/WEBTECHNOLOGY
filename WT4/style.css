@@ -1,0 +1,11 @@
+.Mobile{
+    width: 250px;
+    height: 250px;
+    padding-left: 500px;
+    padding-right: 500px;
+    background-color: pink;
+}
+.ML{
+    background-color: olive;
+    font-family:'Unbounded', cursive ;
+}
